@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<featureImage>"C:/Users/smart/Downloads/Compressed/New folder/piggy-caring-system-in-farrowing-crate-create-multi-cctv-view/feature image/feature.png"</featureImage>
+<timeLostMinute>1</timeLostMinute>
+<timeLostSecond>20</timeLostSecond>
+<muteAlertSound>1</muteAlertSound>
+<originalDisplay>0</originalDisplay>
+<isShowFeatureDetected>1</isShowFeatureDetected>
+<isShowFeatureMatchingResult>1</isShowFeatureMatchingResult>
+<isSaveSnapshot>0</isSaveSnapshot>
+<isSaveAlertSnapshot>0</isSaveAlertSnapshot>
+<isSaveKeypointSanpshot>0</isSaveKeypointSanpshot>
+<nfeatures>0</nfeatures>
+<nOctaveLayers>3</nOctaveLayers>
+<contrastThreshold>5.0000000000000001e-003</contrastThreshold>
+<edgeThreshold>30.</edgeThreshold>
+<sigma>2.</sigma>
+<frameSleep>0</frameSleep>
+<timeSleep>6</timeSleep>
+<isUsingFrame>0</isUsingFrame>
+<isUsingTime>1</isUsingTime>
+<sleepThreshold>7</sleepThreshold>
+<moveThreshold>5</moveThreshold>
+</opencv_storage>

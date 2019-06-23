@@ -1,0 +1,17 @@
+INPUT(
+./release\mainwindow.o
+./release\piggycarringsystem.o
+./release\settingdialog.o
+./release\choosecamera.o
+./release\my_qlabel.o
+./release\featurecreatordialog.o
+./release\featurematching.o
+./release\selectcaptureregiondialog.o
+./release\qrc_res.o
+./release\moc_mainwindow.o
+./release\moc_settingdialog.o
+./release\moc_choosecamera.o
+./release\moc_my_qlabel.o
+./release\moc_featurecreatordialog.o
+./release\moc_selectcaptureregiondialog.o
+);

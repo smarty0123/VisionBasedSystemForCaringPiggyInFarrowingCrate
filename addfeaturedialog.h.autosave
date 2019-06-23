@@ -1,0 +1,26 @@
+#ifndef ADDFEATUREDIALOG_H
+#define ADDFEATUREDIALOG_H
+
+#include <QDialog>
+#include "my_qlabel.h"
+#include "QDebug"
+namespace Ui {
+class AddFeatureDialog;
+}
+
+class AddFeatureDialog : public QDialog
+{
+    Q_OBJECT
+
+public:
+    explicit AddFeatureDialog(QWidget *parent = nullptr);
+    ~AddFeatureDialog();
+    
+private slots:
+    void Mouse_current_pos();
+    void Mouse_pressed();
+private:
+    Ui::AddFeatureDialog *ui;
+};
+
+#endif // ADDFEATUREDIALOG_H
